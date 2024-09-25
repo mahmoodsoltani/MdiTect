@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mditect.Model", "Mditect.Model\Mditect.Model.csproj", "{7575D8C6-926B-4B4A-8D18-EFD1F335E22B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mditect.Service", "Mditect.Service\Mditect.Service.csproj", "{192998F9-2BE2-4B5C-8453-3227DB06D0C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mditect.Controller", "Mditect.Controller\Mditect.Controller.csproj", "{09FB4EDC-89B8-49F2-80C6-F161DE5F47C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mditect.Infrastructure", "Mditect.Infrastructure\Mditect.Infrastructure.csproj", "{D5387F4E-81D1-4FC7-B66B-367D1249AA03}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7575D8C6-926B-4B4A-8D18-EFD1F335E22B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7575D8C6-926B-4B4A-8D18-EFD1F335E22B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7575D8C6-926B-4B4A-8D18-EFD1F335E22B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7575D8C6-926B-4B4A-8D18-EFD1F335E22B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{192998F9-2BE2-4B5C-8453-3227DB06D0C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{192998F9-2BE2-4B5C-8453-3227DB06D0C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{192998F9-2BE2-4B5C-8453-3227DB06D0C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{192998F9-2BE2-4B5C-8453-3227DB06D0C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09FB4EDC-89B8-49F2-80C6-F161DE5F47C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09FB4EDC-89B8-49F2-80C6-F161DE5F47C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09FB4EDC-89B8-49F2-80C6-F161DE5F47C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09FB4EDC-89B8-49F2-80C6-F161DE5F47C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5387F4E-81D1-4FC7-B66B-367D1249AA03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5387F4E-81D1-4FC7-B66B-367D1249AA03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5387F4E-81D1-4FC7-B66B-367D1249AA03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5387F4E-81D1-4FC7-B66B-367D1249AA03}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

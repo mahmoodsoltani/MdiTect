@@ -1,0 +1,6 @@
+@Mditect.Infrastructure_HostAddress = http://localhost:5113
+
+GET {{Mditect.Infrastructure_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
